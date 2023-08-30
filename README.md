@@ -4,7 +4,8 @@
 ## <img src="https://previews.123rf.com/images/yayayoy/yayayoy1507/yayayoy150700003/42080144-emoticon-pointing-at-himself-with-both-hands-pick-me-.jpg" width="4%"> About Me <img src="https://previews.123rf.com/images/yayayoy/yayayoy1507/yayayoy150700003/42080144-emoticon-pointing-at-himself-with-both-hands-pick-me-.jpg" width="4%">
   -👋 Hi, I’m Mustafa AKTEPE<br>
   -👀 I’m interested in IT<br>
-  -🌱 I’m currently learning PYTHON, JS, HTML-CSS, REACT, DJANGO<br>
+  -🌱 I'm Full Stack Developer. (React and Django) <br>
+  -🌱 I’m currently learning PYTHON, JS, SQL <br>
   -📫 reach me musttafaaktepegmail.com<br>
   -📫 https://www.linkedin.com/in/musttafaaktepe//<br>
  <br>
